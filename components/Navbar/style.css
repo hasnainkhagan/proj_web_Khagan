@@ -36,6 +36,7 @@ nav {
 
 footer {
     bottom: 0;
+    cursor: default;
 }
 
 a:hover {
